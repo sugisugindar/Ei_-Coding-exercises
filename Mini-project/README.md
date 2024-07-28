@@ -8,9 +8,13 @@ A console-based application to help astronauts organize their daily schedules by
 **Features**
 
 1 : Add a new task with a description, start time, end time, and priority level.
+
 2 : Remove an existing task by description.
+
 3 : View all tasks sorted by start time.
+
 4 : Ensure that new tasks do not overlap with existing tasks.
+
 5 : Provide appropriate error messages for invalid operations.
 
 
