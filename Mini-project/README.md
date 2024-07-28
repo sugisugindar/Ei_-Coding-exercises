@@ -18,6 +18,9 @@ A console-based application to help astronauts organize their daily schedules by
 # Setup
 
 1 : Clone the repository
+
 2 : Navigate to the project directory
+
 3 : Compile the Java files
+
 4 : Run the application
