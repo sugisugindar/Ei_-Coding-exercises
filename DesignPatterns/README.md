@@ -18,6 +18,8 @@ Navigate to the directory of the pattern you want to run and compile the `Main.j
 Example:
 
 cd BehavioralPatterns/StrategyPattern
+
 javac Main.java
+
 java Main
 
